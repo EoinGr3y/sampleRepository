@@ -11,7 +11,7 @@
 
   Use case 4
     - Use rebase to resolve conflict.
-    - Repeat using pull.
+    - Repeat using merge.
 
   Use case 5
     - Stash, alias etc.
